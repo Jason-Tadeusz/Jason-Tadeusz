@@ -41,7 +41,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Forensics
 <div>
 <img src="https://img.shields.io/badge/-Autopsy-FFA500?style=for-the-badge&logo=Autopsy&logoColor=white" />
-<img src="https://img.shields.io/badge/-FTK%20Imager-0056B3?style=for-the-badge&logo=forensic&logoColor=white" />
+<img src="https://img.shields.io/badge/-FTK-0056B3?style=for-the-badge&logo=forensic&logoColor=white" />
+<img src="https://img.shields.io/badge/-KAPE-003366?style=for-the-badge&logo=forensic&logoColor=white" />
 </div>    
 
 ## Certifications
