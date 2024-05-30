@@ -44,6 +44,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Blue%20Team%20Level%20One-0000FF?style=for-the-badge&logo=security&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certification-008000?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/-(ISC)²%20CC-87CEEB?style=for-the-badge&logo=ISC2&logoColor=white" />
 </div>
 
 ## Projects
