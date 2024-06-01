@@ -5,7 +5,7 @@ I am a lifelong learner with a profound interest in technology and a dedication 
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join an organization as a security analyst.
+My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join an organization as a security analyst.
 
 ## Skills
 
