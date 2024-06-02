@@ -9,7 +9,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Project                                       | Associated Skill           |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
