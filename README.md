@@ -11,7 +11,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 | Project                                       | Associated Skill           |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Splunk Lab    | <a href="https://github.com/Jason-Tadeusz/Splunk-Lab">Splunk Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
