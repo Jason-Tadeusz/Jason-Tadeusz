@@ -7,15 +7,6 @@ I am a lifelong learner with a profound interest in technology and a dedication 
 
 My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join an organization as a security analyst.
 
-## Skills
-
-| Project                                       | Associated Skill           |
-|-----------------------------------------------|----------------------------|
-| <a href="https://github.com/Jason-Tadeusz/Splunk-Lab">Splunk Lab</a> | SIEM Implementation, log analysis, SPL|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
 ## Tools
 
 ### Network
@@ -47,4 +38,10 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 </div>
 
 ## Projects
-- Splunk Lab
+
+I am continuously updating my portfolio with current and upcoming projects.
+
+| Project                                       | Associated Skill           |
+|-----------------------------------------------|----------------------------|
+| <a href="https://github.com/Jason-Tadeusz/Splunk-Lab">Splunk Lab</a> | SIEM Implementation, log analysis, SPL|
+
