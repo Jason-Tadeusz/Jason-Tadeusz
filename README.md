@@ -43,5 +43,5 @@ I am continuously updating my portfolio with current and upcoming projects.
 
 | Project                                       | Associated Skill           |
 |-----------------------------------------------|----------------------------|
-| <a href="https://github.com/Jason-Tadeusz/Splunk-Lab">Splunk Lab</a> | SIEM Implementation, log analysis, SPL|
+| <a href="https://github.com/Jason-Tadeusz/Splunk-Lab">Splunk Lab</a> | SIEM Implementation, Logn Analysis, SPL|
 
